@@ -1,0 +1,107 @@
+<?xml - stylesheet type= "text/css" ?>
+    <root>
+		<faq>
+			<question>
+				<![CDATA[
+					What is MiGain ?
+				]]>
+			</question>
+			<answer>
+				<![CDATA[
+					Your Answer
+				]]>
+			</answer>
+		</faq>
+<!--		<faq>-->
+<!--			<question>-->
+<!--				<![CDATA[-->
+<!--					How Do I Contact MiGain ?-->
+<!--				]]>-->
+<!--			</question>-->
+<!--			<answer>-->
+<!--				<![CDATA[-->
+<!--				<div>-->
+<!--					<div class="answer-head">-->
+<!--						There are several ways to contact us. -->
+<!--						Whether it's by phone, chat, email or fax, we're happy to help. -->
+<!--						Please find us at the following-->
+<!--					</div>-->
+<!--					<div>-->
+<!--						<span class="dot">.</span>-->
+<!--						<span class="address">Email Sales -</span>-->
+<!--						<span class="link">sales@migain.com</span>-->
+<!--					</div>-->
+<!--					<div>-->
+<!--						<span class="dot">.</span>-->
+<!--						<span class="address">Fax Sales -</span>-->
+<!--						<span class="link">1-800-494-1036</span>-->
+<!--					</div>-->
+<!--					<div>-->
+<!--						<span class="dot">.</span>-->
+<!--						<span class="address">Call Custom Service -</span>-->
+<!--						<span class="link">1-866-619-1776</span>-->
+<!--					</div>-->
+<!--					<div>-->
+<!--						<span class="dot">.</span>-->
+<!--						<span class="address">Email Custom Service -</span>-->
+<!--						<span class="link">customservice@migain.com</span>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--				]]>-->
+<!--			</answer>-->
+<!--		</faq>-->
+		<faq>
+			<question>
+				<![CDATA[
+					Does MiGain have Tablet version ?
+				]]>
+			</question>
+			<answer>
+				<![CDATA[
+					Your Answer
+				]]>
+			</answer>
+		</faq>
+		<faq>
+			<question>
+				<![CDATA[
+					What are advantages of MiGain ?
+				]]>
+			</question>
+			<answer>
+				<![CDATA[
+				Your Answer
+				]]>
+			</answer>
+		</faq>
+		<faq>
+			<question>
+				<![CDATA[
+					How MiGain Works ?
+				]]>
+			</question>
+			<answer>
+				<![CDATA[
+					Your Answer
+				]]>
+			</answer>
+		</faq>
+		<faq>
+			<question>
+				<![CDATA[
+					How can I get started with MiGain ?
+				]]>
+			</question>
+			<answer>
+				<![CDATA[
+					Your Answer
+				]]>
+			</answer>
+		</faq>
+		<imageText>
+			<![CDATA[
+				Your Question Are Not Here ?
+			]]>
+		</imageText>
+    </root>
+</xml >

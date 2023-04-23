@@ -1,0 +1,4 @@
+{
+    "uid": "worker",
+    "script": "worker-getprice.js"
+}

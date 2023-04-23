@@ -1,0 +1,4 @@
+{
+    "uid": "import",
+    "script": "worker-import.js"
+}
