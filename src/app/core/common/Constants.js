@@ -1,5 +1,6 @@
 exports.METRIC_TRACKING_API = '/metrictracking';
-exports.USER_API = '/user';
+exports.USER_API = '/users';
+exports.REGISTER_API = '/register';
 exports.USER_PARAM = '/:userId';
 exports.DISTANCE_API = '/distance';
 exports.DISTANCES_API = '/distances';

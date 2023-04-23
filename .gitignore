@@ -1,0 +1,13 @@
+node_modules/
+.log
+.vscode
+tmp/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/api.iml
+.idea
+tmp/
+package-lock.json
+Project - Shortcut.lnk
